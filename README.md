@@ -20,7 +20,16 @@ Help farmers identify conditions of potato crops. This will help the farmers pro
 - Use GCP to connect to React Active
 
 ## Web app UI
+<div style="text-align:center">
+  <img src="https://github.com/thedatanerdz/MLP-68/blob/main/webapp1.png" alt="Uploading image UI">
+</div>
 
+<div style="text-align:center">
+  <img src="https://github.com/thedatanerdz/MLP-68/blob/main/webapp2.png" alt="Predicting UI">
+</div>
 
 ## Mobile app UI
-![Mobile app UI](https://github.com/thedatanerdz/MLP-68/blob/main/mobileapp.png)
+<div style="text-align:center">
+  <img src="https://github.com/thedatanerdz/MLP-68/blob/main/mobileapp.png" alt="Mobile app UI">
+</div>
+
