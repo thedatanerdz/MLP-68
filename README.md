@@ -19,5 +19,8 @@ Help farmers identify conditions of potato crops. This will help the farmers pro
 - Quanitization of model for mobile app
 - Use GCP to connect to React Active
 
+## Web app UI
 
 
+## Mobile app UI
+![Mobile app UI](https://github.com/thedatanerdz/MLP-68/blob/main/mobileapp.png)
